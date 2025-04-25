@@ -1,1 +1,1 @@
-# Computer_Vision-Disease-Detection-and-Diagnosis-
+# Computer_Vision-Disease Detection and Diagnosis
