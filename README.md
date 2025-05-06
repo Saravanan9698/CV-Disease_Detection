@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
+
   <title>Disease Detection and Diagnosis using Computer Vision</title>
   <style>
     body {
